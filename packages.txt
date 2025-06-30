@@ -1,0 +1,4 @@
+# Pacotes do sistema necessários para o Streamlit Cloud
+libgl1-mesa-glx
+libglib2.0-0
+
